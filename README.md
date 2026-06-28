@@ -214,4 +214,3 @@ https://instagram.com/codecrafters_org_2011sdp
 *Think • See • Listen • Automate • Execute*
 
 </div>
-<img width="1536" height="1024" alt="jarvis hero" src="https://github.com/user-attachments/assets/ef009b45-b158-47ab-bea5-11b66889cee1" />
