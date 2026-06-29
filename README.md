@@ -37,32 +37,61 @@ Version 2 introduces a redesigned architecture with improved performance, smarte
 
 ### Major Improvements
 
-* 🚀 Faster response times
-* 🧠 Improved reasoning and planning
-* 👁️ Enhanced screen understanding
-* 🎙️ Better voice interaction
-* ⚡ More reliable system automation
-* 💻 Improved operating system integration
-* 📂 Better file management
-* 🔄 More stable workflow execution
-* 🎨 Modernized interface
-* 🛠️ Cleaner and modular architecture
+- 🚀 Faster response times
+- 🧠 Improved reasoning engine
+- 👁️ Better screen understanding
+- 🎙️ Enhanced voice interaction
+- 📱 NEW Secure QR-code Remote Mobile Control
+- ⚡ More reliable automation
+- 💻 Better operating system integration
+- 📂 Improved file management
+- 🌐 Smarter research workflows
+- 🔄 More stable task execution
+- 🎨 Modern futuristic interface
 
 ---
 
-# 🌟 Core Capabilities
+| Feature | Description |
+|---------|-------------|
+| 🎙️ Real-Time Voice Assistant | Natural conversations with low latency in multiple languages |
+| 👁️ Screen Intelligence | Understands your screen and provides contextual assistance |
+| 💻 Computer Control | Launch applications, manage files, automate workflows, and execute commands |
+| 📄 Document Intelligence | Analyze, summarize, and answer questions from uploaded documents |
+| 🧠 Autonomous Workflows | Completes complex multi-step tasks with intelligent planning |
+| 🌐 Research Assistant | Searches, analyzes, and summarizes information from multiple sources |
+| 📱 Remote Mobile Control | Securely control your PC J.A.R.V.I.S from your smartphone by scanning a QR code |
+| 💾 Persistent Memory | Remembers projects, preferences, and conversation context |
+| 🔄 Hybrid Input | Seamlessly switch between voice, keyboard, and remote mobile control |
+| 🌍 Cross-Platform Support | Works across Windows, macOS, and Linux (where supported) |
 
-| Feature                       | Description                                            |
-| ----------------------------- | ------------------------------------------------------ |
-| 🎙️ Real-Time Voice Assistant | Natural conversations with low latency                 |
-| 👁️ Visual Understanding      | Reads and understands your screen in real time         |
-| 💻 Computer Control           | Launch applications, manage files, and automate tasks  |
-| 📄 Document Intelligence      | Read, summarize, and analyze uploaded documents        |
-| 🧠 Autonomous Workflows       | Complete multi-step objectives with minimal user input |
-| 🔍 Research Assistant         | Search, analyze, and organize information efficiently  |
-| 💾 Persistent Memory          | Remembers projects and user preferences                |
-| 🌍 Multilingual Support       | Communicate naturally in multiple languages            |
-| ⚙️ Hybrid Input               | Seamlessly switch between voice and keyboard           |
+---
+
+# 📱 Remote Mobile Control
+
+One of the biggest additions in **J.A.R.V.I.S v2** is secure remote control from your smartphone.
+
+Simply scan the QR code displayed by J.A.R.V.I.S on your computer, and your mobile device instantly becomes a remote control interface.
+
+No complicated setup.
+
+No cables.
+
+No additional desktop software.
+
+Just scan and connect.
+
+### With Remote Control you can
+
+- 🎙️ Talk to J.A.R.V.I.S from anywhere in your home or office
+- 💻 Execute commands on your PC remotely
+- 📂 Open applications and files
+- 🌐 Perform web searches
+- 🧠 Continue conversations without sitting at your computer
+- ⚡ Control ongoing AI workflows
+- 📄 Upload files directly from your phone to your PC
+- 📱 Use your phone as a wireless companion for J.A.R.V.I.S
+
+This creates a seamless bridge between your desktop and mobile devices, allowing you to stay productive even when you're away from your computer.
 
 ---
 
@@ -80,6 +109,9 @@ J.A.R.V.I.S can help you:
 * Understand on-screen content
 * Assist with programming
 * Increase daily productivity
+* Control your PC remotely from your phone
+* Upload files directly from your smartphone
+* Continue conversations while away from your desk
 
 ---
 
@@ -154,7 +186,6 @@ Upcoming features include:
 * 🤖 Enhanced Autonomous Agents
 * 🧠 Smarter Long-Term Memory
 * 📱 Mobile Companion Application
-* 🖥️ Desktop Installer
 * 🔌 Plugin System
 * ⚡ Faster Task Execution
 * 🎯 Improved User Interface
@@ -168,6 +199,19 @@ Contributions are welcome!
 Whether you're fixing bugs, improving documentation, adding features, or optimizing performance, every contribution helps make J.A.R.V.I.S better for everyone.
 
 ---
+
+# 🚀 Why J.A.R.V.I.S v2?
+
+J.A.R.V.I.S isn't just another AI chatbot.
+
+It is an intelligent desktop operating companion capable of understanding your screen, controlling your computer, conducting research, executing complex workflows, and now—even extending your desktop experience to your smartphone.
+
+With the new **QR-based Remote Mobile Control**, your phone becomes an extension of your AI-powered workstation.
+
+Whether you're at your desk or across the room, J.A.R.V.I.S stays connected and ready to assist.
+
+---
+
 
 # ⭐ Support the Project
 
